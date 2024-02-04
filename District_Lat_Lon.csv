@@ -1,0 +1,373 @@
+﻿District_Name,State_Name,LONGITUDE,LATITUDE
+Bengaluru Urban,Karnataka,78,13
+Pune,Maharashtra,74,19
+Jaipur,Rajasthan,76,27
+Mumbai Suburban,Maharashtra,73,19
+Hyderabad,Telangana,78,17
+Rangareddy,Telangana,78,17
+Thane,Maharashtra,73,19
+Ahmadabad,Gujarat,73,23
+Medchal Malkajgiri,Telangana,79,18
+Visakhapatnam,Andhra Pradesh,83,18
+Surat,Gujarat,73,21
+North Twenty Four Parganas,West bengal,89,23
+South Andaman,Andaman Nicobar,93,11
+North And Middle Andaman,Andaman Nicobar,93,13
+Nicobars,Andaman Nicobar,94,7
+East Godavari,Andhra Pradesh,82,17
+Krishna,Andhra Pradesh,81,17
+Guntur,Andhra Pradesh,80,16
+Chittoor,Andhra Pradesh,79,13
+Anantapur,Andhra Pradesh,78,15
+Kurnool,Andhra Pradesh,78,16
+West Godavari,Andhra Pradesh,81,17
+Spsr Nellore,Andhra Pradesh,80,14
+Prakasam,Andhra Pradesh,80,16
+Papum Pare,Arunachal Pradesh,94,27
+West Kameng,Arunachal Pradesh,92,27
+East Siang,Arunachal Pradesh,95,28
+Tawang,Arunachal Pradesh,92,28
+Changlang,Arunachal Pradesh,96,27
+Lohit,Arunachal Pradesh,96,28
+West Siang,Arunachal Pradesh,95,28
+Namsai,Arunachal Pradesh,96,28
+Lower Dibang Valley,Arunachal Pradesh,96,28
+Upper Subansiri,Arunachal Pradesh,94,28
+Tirap,Arunachal Pradesh,96,27
+Lower Subansiri,Arunachal Pradesh,94,28
+Kamrup Metropolitan,Assam,92,26
+Dibrugarh,Assam,95,27
+Barpeta,Assam,91,26
+Nagaon,Assam,93,26
+Cachar,Assam,93,25
+Sonitpur,Assam,93,27
+Jorhat,Assam,94,27
+Tinsukia,Assam,95,27
+Kamrup,Assam,92,26
+Dhubri,Assam,90,26
+Golaghat,Assam,94,27
+Patna,Bihar,85,26
+Muzaffarpur,Bihar,85,26
+Gaya,Bihar,85,25
+Purbi Champaran,Bihar,85,27
+Samastipur,Bihar,86,26
+Bhagalpur,Bihar,87,25
+Nalanda,Bihar,86,25
+Darbhanga,Bihar,86,26
+Vaishali,Bihar,85,26
+Pashchim Champaran,Bihar,85,27
+Saran,Bihar,85,26
+Madhubani,Bihar,86,26
+Chandigarh,Chandigarh,77,31
+Raipur,Chhattisgarh,82,21
+Durg,Chhattisgarh,81,21
+Bilaspur,Himachal Pradesh,77,31
+Raigarh,Chhattisgarh,83,22
+Janjgir Champa,Chhattisgarh,82,22
+Korba,Chhattisgarh,83,22
+Rajnandgaon,Chhattisgarh,81,21
+Surguja,Chhattisgarh,83,23
+Baloda Bazar,Chhattisgarh,82,22
+Mahasamund,Chhattisgarh,82,21
+Dadra And Nagar Haveli,Dadra Nagar Haveli and Daman Diu,73,20
+Daman,Dadra Nagar Haveli and Daman Diu,73,20
+Diu,Dadra Nagar Haveli and Daman Diu,71,21
+West,Sikkim,88,27
+South East Delhi,Delhi,77,29
+North West,Delhi,77,29
+New Delhi,Delhi,77,29
+Central Delhi,Delhi,77,29
+South West,Delhi,77,29
+North,Sikkim,89,28
+East,Sikkim,89,27
+South,Sikkim,88,27
+Shahdara,Delhi,77,29
+North Goa,Goa,74,15
+South Goa,Goa,74,15
+Vadodara,Gujarat,73,22
+Rajkot,Gujarat,71,22
+Gandhinagar,Gujarat,73,23
+Bharuch,Gujarat,73,22
+Kachchh,Gujarat,70,23
+Mahesana,Gujarat,72,24
+Banas Kantha,Gujarat,72,24
+Bhavnagar,Gujarat,72,22
+Valsad,Gujarat,73,21
+Gurugram,Delhi,77,28
+Faridabad,Haryana,77,28
+Hisar,Haryana,76,29
+Rewari,Haryana,77,28
+Sonipat,Haryana,77,29
+Panipat,Haryana,77,29
+Karnal,Haryana,77,30
+Sirsa,Haryana,75,30
+Rohtak,Haryana,77,29
+Bhiwani,Haryana,76,29
+Ambala,Haryana,77,30
+Jhajjar,Haryana,77,29
+Palwal,Haryana,77,28
+Solan,Himachal Pradesh,77,31
+Kangra,Himachal Pradesh,76,32
+Shimla,Himachal Pradesh,77,31
+Mandi,Himachal Pradesh,77,32
+Sirmaur,Himachal Pradesh,77,31
+Hamirpur,Himachal Pradesh,77,32
+Kullu,Himachal Pradesh,77,32
+Una,Himachal Pradesh,76,31
+Chamba,Himachal Pradesh,76,33
+Jammu,Jammu and Kashmir,75,33
+Srinagar,Jammu and Kashmir,75,34
+Baramulla,Jammu and Kashmir,75,34
+Budgam,Jammu and Kashmir,75,34
+Anantnag,Jammu and Kashmir,75,34
+Udhampur,Jammu and Kashmir,75,33
+Pulwama,Jammu and Kashmir,75,34
+Kathua,Jammu and Kashmir,76,32
+Kupwara,Jammu and Kashmir,74,35
+Samba,Jammu and Kashmir,75,33
+Rajouri,Jammu and Kashmir,74,33
+Ranchi,Jharkhand,85,23
+Dhanbad,Jharkhand,86,24
+East Singhbhum,Jharkhand,86,22
+Bokaro,Jharkhand,86,24
+Hazaribagh,Jharkhand,85,24
+Giridih,Jharkhand,86,24
+Ramgarh,Jharkhand,86,24
+Deoghar,Jharkhand,87,24
+Palamu,Jharkhand,84,24
+Saraikela Kharsawan,Jharkhand,86,23
+Mysuru,Karnataka,77,12
+Belagavi,Karnataka,74,16
+Dharwad,Karnataka,75,15
+Ballari,Karnataka,77,15
+Bengaluru Rural,Karnataka,77,13
+Dakshina Kannada,Karnataka,75,13
+Tumakuru,Karnataka,77,13
+Kalaburagi,Karnataka,77,17
+Vijayapura,Karnataka,76,17
+Kolar,Karnataka,78,13
+Ernakulam,Kerala,76,10
+Malappuram,Kerala,76,11
+Kozhikode,Kerala,76,11
+Thiruvananthapuram,Kerala,77,8
+Thrissur,Kerala,76,11
+Kannur,Kerala,75,12
+Palakkad,Kerala,77,11
+Kottayam,Kerala,77,10
+Kollam,Kerala,77,9
+Alappuzha,Kerala,76,10
+Leh Ladakh,Jammu and Kashmir,78,34
+Kargil,Jammu and Kashmir,76,35
+Lakshadweep,Lakshadweep,73,10
+Indore,Madhya Pradesh,76,23
+Bhopal,Madhya Pradesh,77,23
+Gwalior,Madhya Pradesh,78,26
+Jabalpur,Madhya Pradesh,80,23
+Ujjain,Madhya Pradesh,76,23
+Rewa,Madhya Pradesh,81,25
+Sagar,Madhya Pradesh,79,24
+Chhindwara,Madhya Pradesh,79,22
+Dhar,Madhya Pradesh,75,23
+Dewas,Madhya Pradesh,76,23
+Satna,Madhya Pradesh,81,25
+Nashik,Maharashtra,74,20
+Nagpur,Maharashtra,79,21
+Aurangabad,Bihar,84,25
+Mumbai,Maharashtra,73,19
+Ahmednagar,Maharashtra,75,19
+Solapur,Maharashtra,76,18
+Raigad,Maharashtra,73,19
+Palghar,Maharashtra,73,20
+Imphal West,Manipur,94,25
+Imphal East,Manipur,94,25
+Thoubal,Manipur,94,25
+Bishnupur,Manipur,94,25
+Churachandpur,Manipur,94,24
+Kangpokpi,Manipur,94,25
+Kakching,Manipur,94,24
+Ukhrul,Manipur,94,25
+Tamenglong,Manipur,94,25
+Jiribam,Manipur,93,25
+Chandel,Manipur,94,24
+East Khasi Hills,Meghalaya,92,26
+West Garo Hills,Meghalaya,90,26
+Ribhoi,Meghalaya,92,26
+East Jaintia Hills,Meghalaya,93,25
+West Jaintia Hills,Meghalaya,92,26
+South Garo Hills,Meghalaya,91,25
+South West Garo Hills,Meghalaya,90,25
+West Khasi Hills,Meghalaya,91,26
+North Garo Hills,Meghalaya,91,26
+East Garo Hills,Meghalaya,91,26
+Aizawl,Mizoram,93,24
+Lunglei,Mizoram,93,23
+Kolasib,Mizoram,93,24
+Lawngtlai,Mizoram,93,23
+Champhai,Mizoram,93,23
+Mamit,Mizoram,92,24
+Serchhip,Mizoram,93,23
+Saiha,Mizoram,93,22
+Dimapur,Nagaland,94,26
+Kohima,Nagaland,94,26
+Mokokchung,Nagaland,95,26
+Mon,Nagaland,95,27
+Phek,Nagaland,94,26
+Wokha,Nagaland,94,26
+Zunheboto,Nagaland,95,26
+Tuensang,Nagaland,95,26
+Peren,Nagaland,94,26
+Kiphire,Nagaland,95,26
+Khordha,Odisha,86,20
+Cuttack,Odisha,86,20
+Ganjam,Odisha,85,19
+Baleshwar,Odisha,87,21
+Jajapur,Odisha,86,21
+Sundargarh,Odisha,84,22
+Puri,Odisha,86,20
+Kendujhar,Odisha,86,22
+Bhadrak,Odisha,86,21
+Anugul,Odisha,85,21
+Mayurbhanj,Odisha,87,22
+Puducherry,Puducherry,80,12
+Karaikal,Puducherry,80,11
+Yanam,Puducherry,82,17
+Mahe,Maharashtra,76,12
+Ludhiana,Punjab,76,31
+Sas Nagar,Punjab,77,31
+Patiala,Punjab,76,30
+Amritsar,Punjab,75,32
+Jalandhar,Punjab,76,31
+Bathinda,Punjab,75,30
+Fazilka,Punjab,74,30
+Sangrur,Punjab,76,30
+Hoshiarpur,Punjab,76,32
+Gurdaspur,Punjab,75,32
+Alwar,Rajasthan,77,28
+Jodhpur,Rajasthan,73,26
+Kota,Rajasthan,76,25
+Sikar,Rajasthan,75,28
+Ajmer,Rajasthan,75,26
+Udaipur,Rajasthan,74,25
+Bhilwara,Rajasthan,75,25
+Nagaur,Rajasthan,74,27
+Jhunjhunu,Rajasthan,75,28
+Chennai,Tamil Nadu,80,13
+Thiruvallur,Tamil Nadu,80,13
+Chengalpattu,Tamil Nadu,80,13
+Coimbatore,Tamil Nadu,77,11
+Kancheepuram,Tamil Nadu,80,13
+Salem,Tamil Nadu,78,12
+Tiruppur,Tamil Nadu,77,11
+Madurai,Tamil Nadu,78,10
+Krishnagiri,Tamil Nadu,78,13
+Tiruchirappalli,Tamil Nadu,79,11
+Sangareddy,Telangana,78,18
+Warangal Urban,Telangana,80,18
+Karimnagar,Andhra Pradesh,79,18
+Khammam,Andhra Pradesh,80,17
+Nalgonda,Andhra Pradesh,79,17
+Nizamabad,Andhra Pradesh,78,19
+Peddapalle,Telangana,79,19
+Siddipet,Telangana,79,18
+Bhadradri Kothagudem,Telangana,81,18
+West Tripura,Tripura,91,24
+South Tripura,Tripura,91,24
+Sepahijala,Tripura,91,24
+Gomati,Tripura,92,24
+North Tripura,Tripura,92,24
+Dhalai,Tripura,92,24
+Khowai,Tripura,92,24
+Unakoti,Tripura,92,24
+Gautam Buddha Nagar,Uttar Pradesh,78,28
+Lucknow,Uttar Pradesh,81,27
+Ghaziabad,Uttar Pradesh,77,29
+Prayagraj,Uttar Pradesh,82,25
+Kanpur Nagar,Uttar Pradesh,80,26
+Varanasi,Uttar Pradesh,83,25
+Agra,Uttar Pradesh,78,27
+Gorakhpur,Uttar Pradesh,83,27
+Meerut,Uttar Pradesh,78,29
+Bareilly,Uttar Pradesh,79,28
+Dehradun,Uttarakhand,78,30
+Haridwar,Uttarakhand,78,30
+Udham Singh Nagar,Uttarakhand,80,29
+Nainital,Uttarakhand,79,29
+Pauri Garhwal,Uttarakhand,79,30
+Tehri Garhwal,Uttarakhand,78,30
+Almora,Uttarakhand,80,30
+Pithoragarh,Uttarakhand,80,30
+Chamoli,Uttarakhand,79,30
+Uttarkashi,Uttarakhand,78,31
+Kolkata,West Bengal,88,23
+Murshidabad,West Bengal,88,24
+Hooghly,West Bengal,88,23
+South Twenty Four Parganas,West Bengal,89,22
+Paschim Bardhaman,West Bengal,87,24
+Howrah,West Bengal,88,23
+Nadia,West Bengal,89,23
+Purba Medinipur,West Bengal,88,22
+Paschim Medinipur,West Bengal,87,23
+Purba Bardhaman,West Bengal,88,23
+Birbhum,West Bengal,88,24
+Bankura,West Bengal,87,23
+Ysr,Andhra Pradesh,79,15
+Longding,Arunachal Pradesh,95,27
+Lower Siang,West Bengal,95,28
+Marigaon,Assam,92,26
+Goalpara,Assam,91,26
+Darrang,Assam,92,26
+Bongaigaon,Assam,91,27
+Rohtas,Bihar,84,25
+Siwan,Bihar,84,26
+Purnia,Bihar,87,26
+Sitamarhi,Bihar,85,27
+North East,Delhi,77,29
+Navsari,Gujarat,73,21
+Anand,Gujarat,73,22
+Mewat,Haryana,77,28
+Mahendragarh,Haryana,76,28
+Poonch,Jammu and Kashmir,74,34
+Bandipore,Jammu and Kashmir,75,35
+Kulgam,Jammu and Kashmir,75,34
+Ganderbal,Jammu and Kashmir,75,34
+Ramban,Jammu and Kashmir,75,33
+Reasi,Jammu and Kashmir,75,33
+Koderma,Jharkhand,86,24
+Garhwa,Jharkhand,84,24
+Bidar,Karnataka,78,18
+Ramanagara,Karnataka,77,13
+Davanagere,Karnataka,76,14
+Shivamogga,Karnataka,76,14
+Hassan,Karnataka,76,13
+Sehore,Madhya Pradesh,77,23
+Narsinghpur,Madhya Pradesh,79,23
+Hoshangabad,Madhya Pradesh,78,23
+Shahdol,Madhya Pradesh,81,23
+Kolhapur,Maharashtra,74,17
+Washim,Maharashtra,77,20
+Tengnoupal,Manipur,94,24
+Senapati,Manipur,94,25
+Longleng,Nagaland,95,26
+Jagatsinghapur,Odisha,86,20
+Dhenkanal,Odisha,86,21
+Nayagarh,Odisha,85,20
+Sambalpur,Odisha,84,21
+Kapurthala,Punjab,75,31
+Pathankot,Punjab,76,32
+Ganganagar,Rajasthan,74,30
+Dausa,Rajasthan,76,27
+Bikaner,Rajasthan,73,28
+Barmer,Rajasthan,71,26
+Vellore,Tamil Nadu,79,13
+Erode,Tamil Nadu,78,11
+Dharmapuri,Tamil Nadu,78,12
+Nirmal,Telangana,78,19
+Sitapur,Uttar Pradesh,81,28
+Kheri,Uttar Pradesh,81,28
+Aligarh,Uttar Pradesh,78,28
+Moradabad,Uttar Pradesh,79,29
+Bijnor,Uttar Pradesh,78,29
+Mathura,Uttar Pradesh,78,27
+Rudraprayag,Uttarakhand,79,30
+Maldah,West Bengal,88,25
+Purulia,West Bengal,86,23
